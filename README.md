@@ -6,3 +6,7 @@ A simple YouTube clone built with HTML and CSS. This project mimics the basic la
 <b>Header:</b> Includes a logo, search bar, and user profile icon.<br>
 <b>Sidebar:</b> Contains navigation links like Home, Trending, Subscriptions, Library, and History.<br>
 <b>Main Content:</b> Displays video thumbnails with titles, channel names, and view counts.<br>
+
+# File Structure
+<li> index.html: Contains the HTML structure.</li> 
+ <li>styles.css: Contains the CSS styles. </li>
